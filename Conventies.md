@@ -2,17 +2,17 @@
 
 ## Inhoudsopgave
 1. [Introductie](#introductie)
-2. [Projecten](#projecten)
+2. [Project](#projecten)
     - [Project: Portfolio Web](#project-Portfolio-Web)
 3. [Documentatie](#documentatie)
 
 ## Introductie
-- ik ben adi en ik heb voor het project Portfolio gekozen.
+- ik ben adi en ik heb voor het project PortfolioWeb gekozen.
 
 ## Project
 ### Project: Portfolio Web
-- **Beschrijving:** Korte beschrijving van het project, wat het doet en wat je rol was.
-- **Link naar project:** [https://github.com/Adi7142/PortfolioWeb](#https://github.com/Adi7142/PortfolioWeb).
+- **Beschrijving:** .
+- **Link naar uitleg:** [Link laravel installatie](https://kinsta.com/nl/kennisbank/laravel-installeren/#laravel-installeren).
 
 ## Documentatie
-- dit project word gemaakt in laravel en met behulp van githun
+- dit project word gemaakt in laravel en met behulp van github
