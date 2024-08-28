@@ -1,18 +1,19 @@
 # Portfolio Web
 
 ## Inhoudsopgave
-1. [Introductie](#introductie)
-2. [Project](#projecten)
-    - [Project: Portfolio Web](#project-Portfolio-Web)
+1. [algemente conventies](#algemente-conventies)
+2. [Coding conventies](#projecten)
 3. [Documentatie](#documentatie)
 
-## Introductie
-- ik ben adi en ik heb voor het project PortfolioWeb gekozen.
+## algemente conventies
+- Foutpreventie: je begint elk bestand in visual studio code met een hoofdletter.
+- Onderhoud en Schaalbaarheid: je code duidelijk structureren dat andere mensen het ook kunnen lezen
+- Samenwerking: goed je regels van het project neerleggen in deze conventie dat het duidelijk is wat wel of niet kan
 
-## Project
-### Project: Portfolio Web
-- **Beschrijving:** .
-- **Link naar uitleg:** [Link laravel installatie](https://kinsta.com/nl/kennisbank/laravel-installeren/#laravel-installeren).
+## Coding conventies
+- Duidelijkheid en Consistentie: gebruik Comments bij je code voor duidelijkheid.
+- Leesbaarheid: als je een project maakt schrijf geen onodige code.
+
 
 ## Documentatie
-- dit project word gemaakt in laravel en met behulp van github
+- als je push requests maakt let dan op wat je pusht en pullt op github en een goede beschrijving erbij wat je presies pusht.
